@@ -1,1 +1,0 @@
-docker run --interactive --tty --init --rm --name opencv-notebook --publish 8888:8888 -v C:/git/neal/BYOM/Project-Santa-Cruz-Preview/Sample-Scripts-and-Notebooks/sandbox:/app/src --volume c:/kaggle/working:/app/data alexlouden/python-opencv-notebook
